@@ -1,0 +1,7 @@
+
+Step-by-step guide:
+- Netlify upload instructions
+- Pixel setup instructions
+- GA4 setup instructions
+- Switching versions/pages instructions
+- Editing pop-ups instructions
