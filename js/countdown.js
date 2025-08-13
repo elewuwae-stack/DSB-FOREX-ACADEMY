@@ -1,0 +1,1 @@
+// Countdown script with gold flash in last 10 minutes
